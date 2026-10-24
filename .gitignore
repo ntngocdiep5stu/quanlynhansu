@@ -22,8 +22,6 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
-~$*
-*.tmp
 
 # Environment & Sensitive
 .env
@@ -33,4 +31,7 @@ dist-ssr/
 
 # Scratch files
 scripts_output_summary.json
+
 test_screenshots/
+~$*
+*.tmp
